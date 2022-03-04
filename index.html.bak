@@ -1,0 +1,64 @@
+<!DOCTYPE   html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Sarah Ahmed">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>My WebSite</title>
+<link rel="stylesheet"  href="styles.css">
+<body>
+<div class="hero">
+<nav>
+<img src="logo.gif"  class="logo"> 
+
+<ul>
+
+<li><a href="index.html">Home</a>
+</li>
+<li>
+<a href="#ContactInfo">Contact Us</a>
+</li>
+</ul>
+</nav>
+ 
+
+<div class="detal">
+<h1>
+I am Sarah <span>Gouma</span>
+</h1>
+
+<p>
+This is my Website
+</p>
+<div class="images">
+
+</div>
+<div style="margin-top:5%">
+<hr>
+ <h3 style="background-color:red">Personal Profile:</h3>
+ <h5>Nationality: Sudanese</h5>
+ <h5>Social status: Married</h5>
+ <h5>Religion: Muslim</h5>
+<h3 style="background-color:green">Hobbies:</h3>
+ <h5>Reading and Watching TV</h5>
+ <h3 style="background-color:grey">Educations:</h3>
+ <ul type="circle">
+    <li>Master Degree-Sudan University of Science and Technology </li>
+	<li>Beclore Degree-Sudan University of Science and Technology</li>
+
+  </ul>
+<h3 style="background-color:blue">Previous Works:</h3>
+
+ <ul type="circle">
+    <li>Web Devoloer-Private Company</li>
+ </ul>
+<hr>
+ <h3 id="ContactInfo"style="background-color:yellow">Contact Info:</h3>
+ <h5>Mobile: +24912345678</h5>
+ <h5>Email: Sarahgoumma@gmail.com</h5>
+
+<div>
+
+</div>
+</body>
+</html>
